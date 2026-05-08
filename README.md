@@ -9,7 +9,7 @@ Main Instructor: Master Thesis Supervisor.
 #### Dates
 
 The Reading Course is taken in conjunction with your Master's thesis. The
-schedule is agreed individually with the instructor.
+schedule is agreed individually with the Main Instructor.
 
 ### Description
 
@@ -31,13 +31,14 @@ There is no examination. You will be assessed on the following piece of
 coursework, which should be developed in dialogue with your thesis supervisor.
 
 1. **Written report** of approximately twenty A4 pages (for 6 ECTS - scaled
-   proportionately), prepared in LaTeX, covering the items on your reading
-   list. The report can be structured around the five roles detailed below,
-   applied across the reading list as a whole rather than one role per paper.
-   The report should be substantially different to the literature review
-   submitted in the Masters thesis.
+   proportionately for other ECTS values), prepared in LaTeX, covering the
+   items on your reading list. The report can be structured around the five
+   roles detailed below, applied across the reading list as a whole rather than
+   one role per paper. The report should be substantially different to the
+   literature review submitted in the Masters thesis.
 
-Grading is 
+Grading is based around the existing Masters thesis grading scheme, excluding
+notions of research quality.
 
 ### Schedule
 
@@ -50,9 +51,9 @@ You are welcome to use the 'roles' approach used in the Selected Topics in
 MMCS course from Semester 3.
 
 The following roles provide suggestions for the content and structure of the
-report and presentation. Unlike in a group seminar, you are responsible for
-all five roles; together they give you a balanced view of the literature
-surrounding your thesis.
+report. Unlike in a group seminar, you are responsible for all five roles;
+together they give you a balanced view of the literature surrounding your
+thesis.
 
 * [The Historians]({{ site.baseurl }}{% link roles/historians.md %}). Understand
   the historical context of the works on your reading list; prior works, the
