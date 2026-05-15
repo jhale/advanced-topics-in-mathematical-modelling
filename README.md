@@ -4,7 +4,8 @@
 ### Practicalities
 
 Responsible: Jack S. Hale ([jack.hale@uni.lu](mailto:jack.hale@uni.lu)).
-Main Instructor: Master Thesis Supervisor.
+
+Main Instructor: Masters Thesis Supervisor.
 
 #### Dates
 
@@ -49,13 +50,13 @@ submission.
 
 ### Outline
 
-You are welcome to use the 'roles' approach used in the Selected Topics in
-MMCS course from Semester 3.
+You are welcome (although not required) to use the 'roles' approach used in the
+Selected Topics in MMCS course from Semester 3.
 
 The following roles provide suggestions for the content and structure of the
-report. Unlike in a group seminar, you are responsible for all five roles;
+report. Unlike in a group seminar, you can work within all five roles;
 together they give you a balanced view of the literature surrounding your
-thesis.
+thesis topic.
 
 * [The Historians]({{ site.baseurl }}{% link roles/historians.md %}). Understand
   the historical context of the works on your reading list; prior works, the
@@ -80,4 +81,4 @@ thesis.
 Ideas of Nick Trefethen on running an effective mathematics seminar series
 (https://web.stanford.edu/class/cme324/classics/). The structure of this
 course draws directly on the companion Selected Topics in Mathematical
-Modelling and Computational Sciences seminar.
+Modelling and Computational Sciences course.
