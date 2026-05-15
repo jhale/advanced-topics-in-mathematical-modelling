@@ -1,4 +1,4 @@
-# Reading Course
+# Advanced Topics in Mathematical Modelling
 ## Master in Mathematics
 
 ### Practicalities
@@ -8,12 +8,12 @@ Main Instructor: Master Thesis Supervisor.
 
 #### Dates
 
-The Reading Course is taken in conjunction with your Master's thesis. The
-schedule is agreed individually with the Main Instructor.
+The course is taken in conjunction with your Master's thesis. The schedule is
+agreed individually with the Main Instructor.
 
 ### Description
 
-The Reading Course is taken alongside your Master's thesis and its content
+This reading course is taken alongside your Master's thesis and its content
 should be directly linked to the topic of your thesis. The aim is to give you
 the time and structure to read deeply in the area surrounding your thesis,
 beyond what you would typically cover while focused on the research itself.
@@ -24,6 +24,8 @@ follow-up works, and/or one or two chapters from a canonical textbook in the
 area. Together these should map out the intellectual context in which your
 thesis sits: where the ideas came from, how they developed, and where the
 current research frontier lies.
+
+### AI policy
 
 ### Assessment
 
